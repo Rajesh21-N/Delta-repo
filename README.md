@@ -1,2 +1,2 @@
 # Delta-repo
-this is class of apnacollege
+this is class of apnacollege.
